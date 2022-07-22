@@ -135,7 +135,7 @@ Find the expression value assign to 'answer'.  a - b + c
 
 ```Python
 Input: 12, 4, 1
-Output: 15
+Output: 9
 
 ```
 
